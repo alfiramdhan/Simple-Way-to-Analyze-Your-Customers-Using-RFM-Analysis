@@ -1,5 +1,5 @@
 ## Create RFM Quintiles :
-
+- STEP - 2
 - Lets divides all users into quartiles using the NTILE function
 - To create the quintiles, we’ll use an ntile window function that requires just a few lines of additional SQL at the top of your raw RFM Values Query.
 
